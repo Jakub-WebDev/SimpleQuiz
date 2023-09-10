@@ -1,6 +1,6 @@
 const questions = [
       {
-            question: "Which Which operator returns true if the two compared values are not equal?",
+            question: "Which operator returns true if the two compared values are not equal?",
             answers: [
                   {text: "<>", correct: false},
                   {text: "!==", correct: true},
